@@ -10,3 +10,10 @@ function containsDuplicate(nums: number[]): boolean {
 }
 
 export { };
+
+
+/**
+ * Alternative One-Liner (TypeScript)
+ * const containsDuplicate = (nums: number[]): boolean =>
+    new Set(nums).size !== nums.length;
+ */
