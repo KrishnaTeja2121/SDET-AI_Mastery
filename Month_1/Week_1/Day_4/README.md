@@ -1,4 +1,4 @@
-# Day 5 — HTTP Log Parser CLI Tool
+# Day 4 — HTTP Log Parser CLI Tool
 
 > **SDET + AI Mastery | Month 1 / Week 1 / Day 5**
 
