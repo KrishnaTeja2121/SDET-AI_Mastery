@@ -9,7 +9,7 @@ async function main() {
     }
 
     try {
-        const statusCodes = await parseLogFile(filePath);
+        const statusCodes = await parseLogFile(filepath);
 
         const stats = generateStats(statusCodes);
         console.log("\n=== Category Summary ===");
